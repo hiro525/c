@@ -206,7 +206,7 @@ asaid p {
 /*MENU
 ----------------------------------------------------------------*/
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://github.com/hiro525/c/blob/main/menu-bg.jpg?raw=true);
     min-height: 100vh;
 }
 .menu-content {
