@@ -96,7 +96,7 @@ img {
 /*NEWS
 ------------------------------------------------------*/
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/hiro525/c/blob/main/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
